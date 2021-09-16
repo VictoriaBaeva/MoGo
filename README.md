@@ -1,1 +1,1 @@
-# The learning project: MoGo
+# The training project: MoGo
